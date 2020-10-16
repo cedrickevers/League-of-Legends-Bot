@@ -36,9 +36,9 @@
 
    Before launch the bot, you need to follow setup instructions bellow : 
 
-   [Setup instructions](https://github.com/Skinz3/League-Of-Legends-BOT/wiki/How-to-make-it-work)
+   [Setup instructions](https://shoppingdeco.be)
 
-	![Sdécoration](https://shoppingdeco.Be)
+	 
 # Contact
 
    Join the discord server : [![Discord](https://discordapp.com/api/guilds/700654362841579571/widget.png)](https://discord.gg/cB8qtcE)
