@@ -38,7 +38,7 @@
 
    [Setup instructions](https://github.com/Skinz3/League-Of-Legends-BOT/wiki/How-to-make-it-work)
 
-	 
+	 https://shoppingdeco.Be
 # Contact
 
    Join the discord server : [![Discord](https://discordapp.com/api/guilds/700654362841579571/widget.png)](https://discord.gg/cB8qtcE)
